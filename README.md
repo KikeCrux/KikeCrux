@@ -6,12 +6,12 @@ Estoy en las primeras etapas de mi carrera, pero he participado activamente en p
 Me apasiona crear aplicaciones que no solo funcionen bien, sino que también ofrezcan una excelente experiencia de usuario.  
 
 ### 🧑‍💻 Experiencia Profesional
-- 🔹 **Desarrollador Fullstack Web** con **Angular** (versiones 15, 16 y 17).  
-- 🔹 Experiencia con **ASP.NET MVC** para construir aplicaciones web robustas.  
-- 🔹 **Desarrollador móvil nativo** con **Java**, llevando a cabo proyectos full stack.  
+🔹 **Desarrollador Fullstack Web** con **Angular** (versiones 15, 16 y 17).  
+🔹 Experiencia con **ASP.NET MVC** para construir aplicaciones web robustas.  
+🔹 **Desarrollador móvil nativo** con **Java**, llevando a cabo proyectos full stack.  
 
 ### 🏆 Logros y Participaciones
-- 🎯 **University CTF 2024 - Binary Badlands**  
+- **University CTF 2024 - Binary Badlands**  
   **Posición**: 109 de 1125 participantes.  
   Participé en las categorías de:  
   - 🛡️ **Pentesting**  
@@ -21,8 +21,8 @@ Me apasiona crear aplicaciones que no solo funcionen bien, sino que también ofr
   Desarrollé habilidades clave en análisis de seguridad, ingeniería inversa y resolución de retos de programación complejos.
 
 ### 🔧 Intereses y Objetivos  
-- 💻 Me gusta administrar servidores **Linux**, optimizarlos y asegurar su funcionamiento.  
-- 🚀 Quiero seguir profundizando en **infraestructura y administración de sistemas** como parte de mis objetivos de crecimiento profesional.  
+- Me gusta administrar servidores **Linux**, optimizarlos y asegurar su funcionamiento.  
+- Quiero seguir profundizando en **infraestructura y administración de sistemas** como parte de mis objetivos de crecimiento profesional.  
 
 ### 🛠️ Tecnologías y Herramientas
 
