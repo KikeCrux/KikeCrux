@@ -1,7 +1,8 @@
 # Soy KikeCrux  
 
 ### 🚀 Sobre mí
-Soy un desarrollador Full Stack con experiencia en desarrollo web y móvil.  
+Soy un desarrollador Full Stack con experiencia en desarrollo web y móvil.
+Estoy en las primeras etapas de mi carrera, pero he participado activamente en proyectos usando ASP.NET MVC y Java para aplicaciones móviles. 
 Me apasiona crear aplicaciones que no solo funcionen bien, sino que también ofrezcan una excelente experiencia de usuario.  
 
 ### 🧑‍💻 Experiencia Profesional
@@ -33,5 +34,6 @@ Me apasiona crear aplicaciones que no solo funcionen bien, sino que también ofr
 
 **Frameworks**  
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)  ![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white)  
+
 
 
